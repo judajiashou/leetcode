@@ -9,6 +9,7 @@ public:
             return 0;
         }
        
+       haha 
        
         for(int i=0;i<nums.size()-1;++i)
         {
